@@ -1,0 +1,9 @@
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\bin\Debug\Prog1.exe.config
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\bin\Debug\Prog1.exe
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\bin\Debug\Prog1.pdb
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.Form1.resources
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.Cache
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.exe
+c:\users\vince\documents\visual studio 2012\Projects\Prog1\Prog1\obj\Debug\Prog1.pdb
